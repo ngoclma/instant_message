@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # assignment_demo_2023
 
 ![Tests](https://github.com/TikTokTechImmersion/assignment_demo_2023/actions/workflows/test.yml/badge.svg)
@@ -28,3 +29,6 @@ Check if it's running:
 ```bash
 curl localhost:8080/ping
 ```
+=======
+# instant_message
+>>>>>>> 757601ba1e3283ba09ed647300cf3a38570a1aa0
